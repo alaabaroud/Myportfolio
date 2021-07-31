@@ -81,13 +81,13 @@ class Landing extends React.Component {
                   <Row>
                     <Col lg="6">
                       <h1 className="display-3 text-white">
-                        A beautiful Design System{" "}
+                      I am super excited to learn more and more about this interesting field. Because tech is the future of the world.
+
                         <span>completed with examples</span>
                       </h1>
                       <p className="lead text-white">
-                        The design system comes with four pre-built pages to
-                        help you get started faster. You can change the text and
-                        images and you're good to go.
+                      Hello, My name is Alaa Baroud, I studied English language and literature at the Arab Community College. I worked in fields related to my education such as translation and content writing, but one day I decided  that I want to expand more in the coding world so I joined the code fellows with LTUC/ ASAC.
+                   
                       </p>
                       <div className="btn-wrapper">
                         <Button
@@ -184,7 +184,7 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            Build Something
+                            
                           </h6>
                           <p className="description mt-3">
                             Argon is a great free UI package based on Bootstrap
