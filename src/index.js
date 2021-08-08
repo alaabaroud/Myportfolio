@@ -36,16 +36,16 @@ ReactDOM.render(
 
       <Route path="/" exact render={props => <Profile {...props} />} />
       <Route
-        path="/portfolio"
+        path="/landing-page"
         exact
         render={props => <Landing {...props} />}
       />
-      {/* <Route path="/login-page" exact render={props => <Login {...props} />} />
-      <Route
+       {/* <Route path="/login-page" exact render={props => <Login {...props} />} /> */}
+      {/* <Route
         path="/profile-page"
         exact
-        render={props => <Profile {...props} />}
-      /> */}
+        render={props => <Profile {...props} />} */}
+      
       {/* <Route
         path="/register-page"
         exact
